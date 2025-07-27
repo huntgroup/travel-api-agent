@@ -38,3 +38,4 @@ A demo page will be available soon at:
 ## ⚠️ Disclaimer
 This is a **personal non-commercial project**.  
 It is intended for **educational purposes only** and is **not a public booking service**.
+
