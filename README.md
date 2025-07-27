@@ -1,5 +1,3 @@
-# travel-api-agent
-Agent To Book Travel Plans
 # Travel API Agent
 
 A lightweight API service to fetch real-time travel data, including flights and accommodation, by integrating with the following platforms:
@@ -31,7 +29,12 @@ This project is hosted on a **Raspberry Pi 5** and will be used as part of a **p
 
 ---
 
+## 🌐 Project URL
+A demo page will be available soon at:  
+👉 https://huntgroup.github.io/travel-api-agent
+
+---
+
 ## ⚠️ Disclaimer
 This is a **personal non-commercial project**.  
 It is intended for **educational purposes only** and is **not a public booking service**.
-
